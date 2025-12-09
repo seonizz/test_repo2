@@ -8,7 +8,7 @@ second = input("Enter the second number: ")
 num1 = int(first)
 num2 = int(second)
 
-# gkq rPtks
+# 합 계산
 sum = num1 + num2
 
 # 차 계산
@@ -18,5 +18,6 @@ difference = num1 - num2
 product = num1 * num2
 
 # 결과 출력
+print("Sum: ", Sum)
 print("Difference: ", difference)
 print("Product: ", product)
